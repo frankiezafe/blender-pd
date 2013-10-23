@@ -9,19 +9,19 @@ Release date: 28/09/2013
 
 **************************************************
 
-* Requirements:
+Requirements:
 - puredata extended (pd-extended) > http://puredata.info/downloads
 - blender 2.67 (not tested on other releases) > http://www.blender.org/download/get-blender/
 And that's it! You're ready to run this incredible demo :)
 
-* Steps (after unzip):
+Steps (after unzip):
 - open pd/controller.pd
 - if your mouse cursor is a hand (and not an arrow), press ctrl+e
 - open avatar_osc.blend
 - put your mouse in the 3D panel and press ctrl+p
 - go back to pd and play with the sliders, you'll see the body parts move.
 
-* Explanations:
+Explanations:
 There are 3 sliders per bones in puredata. They are all packed together by an external called packbone.pd and send to via OSC.
 In blender, the first time the script is executed, all the bones of the armature are collected and stored in a collection.
 An other list of eulers angles is created and set to 0.
