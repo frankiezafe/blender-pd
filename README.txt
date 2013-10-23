@@ -7,8 +7,8 @@ Release date: 28/09/2013
 **************************************************
 
 * Requirements:
-- puredata extended (pd-extended) > http://
-- blender 2.67 (not tested on other releases) > http://
+- puredata extended (pd-extended) > http://puredata.info/downloads
+- blender 2.67 (not tested on other releases) > http://www.blender.org/download/get-blender/
 And that's it! You're ready to run this incredible demo :)
 
 * Steps (after unzip):
@@ -27,8 +27,8 @@ When an OSC message arrives, the script tries to locate the euler angle you want
 
 **************************************************
 
-Thanks to [name of the guy] for his "stdman" model: http://
-This model is licensed under 
+Thanks to [name of the guy] for his "Lowpoly man" model: http://www.blendswap.com/user/TiZeta
+This model is licensed under creative Common Attribution 3.0 Unported 
 **************************************************
 
 The rest of the project is under Creative Common Attribution 2.5
