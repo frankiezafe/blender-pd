@@ -1,3 +1,17 @@
+blender-pd-karlax
+=================
+
+Release date: 22/02/2016
+**************************************************
+
+new version
+
+* updated python in blender: ThreadOsc.py for better performance
+* OSC parsing in puredata to map karlax data
+
+see http://f-lat.org/kiwi/doku.php/dev:karlax for explanation
+
+
 blender-pd
 ==========
 
